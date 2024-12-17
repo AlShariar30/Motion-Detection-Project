@@ -1,0 +1,36 @@
+{
+    "user_info": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "age": 25,
+        "birthday": "15/05/1999",
+        "username": "johdoe19990515"
+    },
+    "sensor_data": [
+        {
+            "movement_value": "1",
+            "temperature_value": "23.5",
+            "timestamp": "17.05.2024, 14:30"
+        },
+        {
+            "movement_value": "0",
+            "temperature_value": "22.8",
+            "timestamp": "17.05.2024, 14:35"
+        },
+        {
+            "movement_value": "1",
+            "temperature_value": "23.0",
+            "timestamp": "17.05.2024, 14:40"
+        },
+        {
+            "movement_value": "1",
+            "temperature_value": "23.3",
+            "timestamp": "17.05.2024, 14:45"
+        },
+        {
+            "movement_value": "0",
+            "temperature_value": "22.7",
+            "timestamp": "17.05.2024, 14:50"
+        }
+    ]
+}
